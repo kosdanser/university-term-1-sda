@@ -1,3 +1,5 @@
+# macOS debug symbols
+*.dSYM/
 .idea/
 **/.idea/
 .DS_Store
